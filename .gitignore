@@ -1,0 +1,21 @@
+# Training artifacts
+checkpoints/
+logs/
+venv/
+BestModel/checkpoints/
+# model artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.pkl
+*.joblib
+
+# common output dirs
+checkpoints/
+runs/
+wandb/
+outputs/
