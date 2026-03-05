@@ -1,5 +1,7 @@
 # BestModel Training and Local Evaluation
 
+Model tensors : https://drive.google.com/drive/folders/1eO2H7W6LrZXVTNgYXBN7hCsUWo9cHeqH?usp=sharing
+
 The BestModel directory contains the RoBERTa-based classifier, training notebook, and Stage 5 local evaluation artifacts for the "Don't Patronize Me" task. Follow the steps below to recreate the Python environment from `requirements.txt` and run the notebook end-to-end.
 
 ## 1. Prerequisites
